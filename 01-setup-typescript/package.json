@@ -1,0 +1,14 @@
+{
+  "name": "angular2-brown-bag",
+  "version": "1.0.0",
+  "description": "Getting started with typescript",
+  "main": "index.js",
+  "scripts": {
+    "typescript": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^1.8.10"
+  }
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>SystemJs</title>
+</head>
+<body>
+
+
+	<script src="./node_modules/systemjs/dist/system.src.js"></script>
+	<script>
+		System.config({
+			map: {
+				'app' : 'src'
+			},
+			packages: {
+				'app' : { defaultExtension: 'js' }
+			}
+		});
+		System.import('./src/main').catch(console.error.bind(console));
+	</script>
+</body>
+</html>
