@@ -9,9 +9,9 @@ For running the first examples I use the local ```httpster``` server. You can in
 To use it go to the required folder in your terminal and start a local server with ```httpster```
 
 
-
 # Courses
 01. [get started with typescript](01-setup-typescript/README.md)
+02. [basic system js setup](02-system-js/README.md)
 
 
 
