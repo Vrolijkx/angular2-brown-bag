@@ -1,3 +1,3 @@
 # Stappen
-- Create a npm project ```npm intit``` (default values are fine)
+- Create a npm project ```npm init``` (default values are fine)
 - Install SystemJs
